@@ -1,4 +1,4 @@
-<img href="Bored_List.jpg" />
+<img src="Bored_List.jpg" />
 
 # Bored
 ## Create list of random things to do when bored.
