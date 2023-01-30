@@ -1,4 +1,4 @@
-<img width=200 src="Bored_List.jpg" />
+<img width=350 src="Bored_List.jpg" />
 
 # Bored
 ## Create list of random things to do when bored.
